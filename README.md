@@ -25,8 +25,10 @@ Ahora crearemos otra funcion que nos permita simular el lanzamiento de un dado c
 ## Reto justo?
 Se te presenta el siguiente juego:
 
-El jugador deberá lanzar una moneda (abonando 1 dolar por cada lanzamiento) hasta que el numero de caras supere en 3 al número de sellos. Al momento de cumplir esa condición, el jugador gana 10 dolares.
+El jugador deberá lanzar una moneda (abonando 1 dolar por cada lanzamiento) hasta que el numero de caras supere en 3 al número de sellos de manera consecutiva. Al momento de cumplir esa condición, el jugador gana 10 dolares.
 
 Utiliza tu funcion que utilizaste en el primer reto para analizar si vale la pena jugar.
 
 Escribe tus resultados y conclusiones en "reto.md"
+
+Prueba de cambio
